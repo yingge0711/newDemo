@@ -1,4 +1,27 @@
-<html>
-<head></head>
-<body>123</body>	
-</html>
+<!--SMT??-->
+<template>
+  <div class="smt">
+    ? ? S M T  ??
+  </div>
+</template>
+
+<script>
+    import './Smt.less';
+
+    export default {
+        data() {
+            return {
+
+            }
+        },
+        //????(???????)
+        mounted() {
+
+        },
+        //?????????
+        methods: {
+
+        },
+    }
+</script>
+
